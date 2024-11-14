@@ -32,7 +32,7 @@ include 'lib/koneksi.php';
     </div>
     <div class="col-sm-4">
       <h3>Daftar</h3>
-      <p><img src="img/sa.png" width="100px" height="100px"></p>
+      <p><img src="img/h.png" width="100px" height="100px"></p>
       <button><a href='ubah_status.php'>Ubah</a></button>
     </div>
     </div>
