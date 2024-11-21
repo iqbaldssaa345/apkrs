@@ -2,7 +2,7 @@
 $host     = "localhost";              
 $username = "root";                   
 $password = "12345678";                     
-$dbname = "rumahsakit";            
+$dbname = "rs";            
 
 try{
     // Membuat koneksi dengan PDO
